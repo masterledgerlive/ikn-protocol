@@ -1,4 +1,4 @@
-# Proof of Truth (PoT) Protocol
+# BLOCKCHAINING CARDBOARD 
 ### Decentralized Multi-Factor Authentication for Physical Assets and Creator IP
 
 > **Status:** Architecture / Pre-Development — Smart contract development pending.
